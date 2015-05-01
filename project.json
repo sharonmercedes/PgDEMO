@@ -1,0 +1,10 @@
+{
+    "name": "PgDEMO",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "PgDEMO.xml",
+    "author": "sharonmercedes",
+    "minimum_firmware_version": 42
+}
