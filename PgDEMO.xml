@@ -144,7 +144,7 @@
                                                                                                                 </value>
                                                                                                                 <next>
                                                                                                                   <block type="oled_drawtext" id="156">
-                                                                                                                    <field name="TEXT">YELLOW</field>
+                                                                                                                    <field name="TEXT">RED</field>
                                                                                                                     <next>
                                                                                                                       <block type="oled_drawnumber" id="157" inline="true">
                                                                                                                         <value name="NUMBER">
